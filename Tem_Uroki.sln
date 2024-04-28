@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tem_Uroki", "Tem_Uroki\Tem_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Te11UR2", "Te11UR2\Te11UR2.csproj", "{C573EB50-E7F8-4D5B-991C-D5E97018414C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14U4", "T14U4\T14U4.csproj", "{60404219-A992-4B87-9789-783CE52E6017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T14U4", "T14U4\T14U4.csproj", "{60404219-A992-4B87-9789-783CE52E6017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Т5Ur1", "Т5Ur1\Т5Ur1.csproj", "{CD75D48A-AE54-4A59-BC7E-0B064CD1114B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{60404219-A992-4B87-9789-783CE52E6017}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60404219-A992-4B87-9789-783CE52E6017}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60404219-A992-4B87-9789-783CE52E6017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD75D48A-AE54-4A59-BC7E-0B064CD1114B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD75D48A-AE54-4A59-BC7E-0B064CD1114B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD75D48A-AE54-4A59-BC7E-0B064CD1114B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD75D48A-AE54-4A59-BC7E-0B064CD1114B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
