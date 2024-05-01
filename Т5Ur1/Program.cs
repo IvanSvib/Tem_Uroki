@@ -37,24 +37,24 @@
 
     
 
-double nambe1 = 1;
+//double nambe1 = 1;
 
-double summ = 0;
+//double summ = 0;
 
-while (nambe1 != 0)
-{
+//while (nambe1 != 0)
+//{
 
-    Console.WriteLine("Введите загаданное число!:");
-    Random random = new Random();
-    nambe1 = random.Next(0, 10);
-    Console.WriteLine($"{nambe1}:");
-    summ = summ + nambe1;
+//    Console.WriteLine("Введите загаданное число!:");
+//    Random random = new Random();
+//    nambe1 = random.Next(0, 10);
+//    Console.WriteLine($"{nambe1}:");
+//    summ = summ + nambe1;
  
 
     
 
-} 
-Console.WriteLine($"Сумма всех введенных чисел ={summ}:");
+//} 
+//Console.WriteLine($"Сумма всех введенных чисел ={summ}:");
 
 
 
